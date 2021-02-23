@@ -1,1 +1,1 @@
-Find the webpage on the web [here](https://steenblikrs.github.io/phi_archi/)
+Find the project on the web [here](https://steenblikrs.github.io/phi_archi/)
